@@ -7,7 +7,25 @@
 // const max = 100;
 
 
+// for (let i = min; i <= max; i+=10){
+//     console.log(i);
+// }
 
+//вивести числа кратні 10
+// for (let i = min; i <= max; i += 1){
+//     if (i % 10 !== 0) {//якщо кратний 10
+        
+//         continue
+//     }
+// console.log(i);
+// }
+
+// for (let i = min; i <= 50; i += 10){
+//     // if (i ===50) {
+//     //     break;
+//     // }
+// console.log(i);
+// }
 
 
 
@@ -20,3 +38,20 @@
 
 // let number = 0;
 
+// while (number <= 100) {
+//     number = prompt('Введи номер');
+//     console.log(number)
+// }
+
+// while (number !== null && number <=100) {
+//     number = prompt('Введи номер');
+//     console.log(number)
+// }
+
+
+// do {
+//     number = prompt('Введи номер');
+//     console.log(number)
+// } while (number !== null && number <=100) {
+    
+// }
